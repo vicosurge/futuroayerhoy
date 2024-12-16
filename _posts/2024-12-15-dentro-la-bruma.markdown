@@ -1,4 +1,11 @@
-**DENTRO LA BRUMA**
+---
+layout: post
+title: "Dentro la bruma"
+date: 2018-06-12 00:00:00 -0800
+categories: Historia Corta
+tags: Historia Corta
+author: Gilberto Jaymez
+---
 
 Esa melodía, esa maldita melodía que sigue sonando en mi cabeza. Me he
 despertado a las 5 de la mañana y aún no ha amanecido del todo. Por la
