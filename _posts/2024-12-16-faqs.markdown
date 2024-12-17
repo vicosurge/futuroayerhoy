@@ -1,0 +1,31 @@
+---
+layout: post
+title: "FAQS"
+date: 2017-12-30 00:00:00 -0800
+categories: Informacion
+tags: Informacion
+author: Comite Editorial
+---
+## ¿Por qué la revista no cobra por publicar?
+Para generar la menor cantidad de gastos posibles no se cuenta con servicio 
+editorial, ni existe alguna relación directa con imprentas.
+ 
+## ¿Por qué no se tiene una temática definida?
+La revista promueve la libertad de expresión y considera que la falta de 
+recursos no debería ser un impedimento. Así que se ofrece la oportunidad 
+de expresar sus ideas a todos por igual. 
+
+## ¿Por qué la revista no paga por tus obras?
+Por el momento la revista no cuenta con ingresos fijos y/o continuos, no 
+cuenta con capital o fondos, ni una organización o cuerpo que se encargue 
+de solventar gastos o remuneraciones. La única retribución que se garantiza 
+a los autores publicados es la divulgación de sus obras manteniendo sus 
+derechos de autor. 
+
+## ¿Cómo conservas tus derechos de autor?
+Bajo la ley de Creative Commons Attribution 4.0 International se asegura 
+que el autor mantiene los derechos de la obra, a su vez nos permite vender 
+la obra con propósitos de recuperación para solventar los gastos que genera 
+mantener los servicios actuales de la revista. 
+
+Para cualquier duda o comentario contáctanos a info@elfuturodelayerhoy.com
