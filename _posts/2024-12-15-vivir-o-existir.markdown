@@ -1,4 +1,11 @@
-# ¿VIVIR O EXISTIR?
+---
+layout: post
+title: "¿Vivir o Existir?"
+date: 2018-06-12 00:00:00 -0800
+categories: Poesia
+tags: Poesia
+author: Luis Figueroa
+---
 
 Vivir y existir no es necesariamente lo mismo, es más tu puedes vivir y no existir
 pero no puedes existir sin vivir, y no me refiero a las cosas inanimadas, me refiero
@@ -80,5 +87,3 @@ detalle y por obvias razones, la felicidad perduraría en nosotros.
 
 “Un bebe al ver un ‘guau guau’ disfruta más su momento, ¿Por qué tú al ver un
 ‘guau guau’ no disfrutas más tu momento?”
-
-Luis Figueroa

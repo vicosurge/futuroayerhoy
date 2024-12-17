@@ -1,4 +1,14 @@
-**UN BESO**
+---
+layout: post
+title: "Un Beso"
+date: 2018-05-30 00:00:00 -0800
+categories: Poesía
+tags: Poesía
+author: Carlos Alberto Ramírez Zepeda
+email: rzcar.138@gmail.com
+age: 23
+residency: Mexicali, Baja California, México.
+---
 
 Un viernes por la tarde, supe valorar mi primer beso que me dio mi
 novio, fue un beso apasionante en el cual me encanto y yo se lo regrese
@@ -12,14 +22,3 @@ siéntate orgulloso de quien eres. Hace 4 meses atrás recuerdo nuestro
 primer beso, fue un beso con amor, un beso que nunca pensamos que iba a
 suceder, hasta el momento nos hemos besado en público, y no hemos
 escuchado ninguna crítica o discriminación hacia nosotros.
-
-NOMBRE DEL AUTOR: Carlos Alberto Ramírez Zepeda
-
-EDAD: 23 años.
-
-LUGAR DE RESIDENCIA: Mexicali Baja California.
-
-GENERO LITERARIO: Poema.
-
-CORREO ELECTRONICO:
-[[rzcar.138@gmail.com]{.underline}](mailto:rzcar.138@gmail.com)

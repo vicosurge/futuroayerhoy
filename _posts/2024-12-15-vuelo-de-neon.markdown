@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Vuelo de Neon"
+date: 2018-05-23 00:00:00 -0800
+categories: Historia Corta
+tags: Historia Corta
+author: Vico
+---
+
 Truenos, se escuchan motores a todo volumen de vehículos azul neón
 surcando por tubos amarillos ficticios que marcaban el principio y el
 fin de su camino.
