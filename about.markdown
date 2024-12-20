@@ -1,8 +1,20 @@
 ---
 layout: page
-title: About
+title: Informacion sobre la Revista
 permalink: /about/
 ---
+# Acerca de la Revista
+
+Este repositorio contiene todo el contenido de El futuro del ayer, hoy, 
+una revista digital abierta a todos los escritores en Español.
+
+La revista digital existio del 2018 al 2021 y era libre de costo para
+quien quiziera ser publicado.
+
+El futuro del ayer, hoy, es distribuido atra vez de la [licencia Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.es).
+
+
+# About the Magazine
 
 The repository contains all of the content for El futuro del ayer, hoy, a 
 digital magazine that was open to all writers in the Spanish language.
