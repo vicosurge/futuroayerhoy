@@ -46,4 +46,4 @@ una plataforma para aquellos autores que quieren mostrarse al mundo.
     revista.
 
 Para cualquier duda o comentario contáctanos a 
-[info@elfuturodelayerhoy.com](info@elfuturodelayerhoy.com)
+[info@elfuturodelayerhoy.com](mailto:info@elfuturodelayerhoy.com)

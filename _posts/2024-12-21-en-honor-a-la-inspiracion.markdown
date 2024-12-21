@@ -16,11 +16,11 @@ Compartimos algunas imágenes del hogar de Guillermo Del Toro, aclamado director
 
 Esperemos que estas imágenes sirvan de inspiración y les recordamos que ¡seguimos recibiendo textos! 
 
-Bases: [www.elfuturodelayerhoy.com](www.elfuturodelayerhoy.com)
+Bases: [www.elfuturodelayerhoy.com](https://www.elfuturodelayerhoy.com)
 
-Para más información comunícate a: [info@elfuturodelayerhoy.com](info@elfuturodelayerhoy.com)
+Para más información comunícate a: [info@elfuturodelayerhoy.com](mailto:info@elfuturodelayerhoy.com)
 
-Si ya consultaste las bases, envía tu texto a: [contacto@elfuturodelayerhoy.com](contacto@elfuturodelayerhoy.com)
+Si ya consultaste las bases, envía tu texto a: [contacto@elfuturodelayerhoy.com](mailto:contacto@elfuturodelayerhoy.com)
 
 ![1-casa](/assets/1.jpg)
 
