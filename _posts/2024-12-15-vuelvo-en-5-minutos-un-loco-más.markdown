@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Vuelvo en cinco minutos"
-date: 2018-05-23 00:00:00 -0800
-categories: Historia Corta
-tags: Suspenso, Crimen, Extraño, Experiencia, Aterrador, Homicidio
+date: 2018-08-27 00:00:00 -0800
+originaldate: 2018-05-23 00:00:00 -0800
+categories: Historia-Corta
+tags: Suspenso Crimen Extraño Experiencia Aterrador Homicidio
 author: Carlos Dario Romero
 ---
 

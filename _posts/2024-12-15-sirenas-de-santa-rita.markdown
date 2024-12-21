@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Sirena de Santa Rita"
+date: 2018-10-08 00:00:00 -0800
+originaldate: 2018-02-18 00:00:00 -0800
+categories: Historia-Corta
+tags: Historia-Corta
+author: Enrique Abraham Acevedo Weber
+residency: Tijuana, Baja California, México
+authorbacklink: http://colormetropolis.tumblr.com/tagged/literature
+---
+
 La bolsa sobre la cabeza de la niña no la deja respirar. Está en un
 lugar caliente y lleno de tierra. Sus pies le dicen eso,duelen y su
 cabeza también. No recuerda cómo llegó a ese lugar.Lo último que su
@@ -270,7 +282,7 @@ Ellos voltearon a su alrededor y no había nadie.
 Entonces oían como una puerta se cerraba, alguien colocando cadenas.
 
 La mujer de la sonrisa marcada gritó: Abran la puerta, malditas perras.
-Juro que si alguna vez les pongo las manos otra vez encima\...
+Juro que si alguna vez les pongo las manos otra vez encima...
 
 Las niñas ya estaban muy lejanas como para escucharla. Nadie en Santa
 Rita habría podido escucharlas.
@@ -282,12 +294,12 @@ Perdieron el conocimiento en las escaleras de un edificio de
 apartamentos. Pasó media hora para que alguien observará el estado en el
 que encontraban.
 
-Azulina después [soñó con la sirena. Azulina y la niña tuerta estaban a
+Azulina después soñó con la sirena. Azulina y la niña tuerta estaban a
 lado de ella. El mar golpeaba con una ferocidad enorme y tenia un color
-cafe.]{.mark}
+cafe.
 
-[Ella sintió un calma inmensa.]{.mark}
+Ella sintió un calma inmensa.
 
-[La sirena cantaba:]{.mark}
+La sirena cantaba:
 
-[*Amor,ven a mi con tu sombrero de paja blanco*\...]{.mark}
+*Amor,ven a mi con tu sombrero de paja blanco*...

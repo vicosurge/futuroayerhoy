@@ -11,3 +11,12 @@ permalink: /cartas/
     </li>
   </ul>
 {% endfor %}
+
+<h3>Convocatorias</h3>
+{% for post in site.categories["Convocatoria"] %}
+  <ul>
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  </ul>
+{% endfor %}

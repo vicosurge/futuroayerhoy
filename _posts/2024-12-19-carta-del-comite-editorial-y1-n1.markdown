@@ -46,4 +46,5 @@ día que hoy para publicar aquello que ha vivido en el alma por tanto tiempo
 y no ha encontrado la salida.
 
 Presidente del Comité Editorial
+
 Vicente Manuel Muñoz Milchorena

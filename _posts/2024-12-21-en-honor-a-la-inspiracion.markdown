@@ -1,0 +1,37 @@
+---
+layout: post
+title: "En honor a la inspiración"
+date: 2018-01-21 00:00:00 -0800
+originaldate: 2018-01-21 00:00:00 -0800
+categories: Comite-Editorial
+tags: Comite-Editorial
+author: Comite Editorial
+---
+
+¿Cuál es la motivación que nos inspira al escribir? ¿Es el lugar, tal vez el ambiente, las experiencias o simplemente la disciplina al crear? 
+
+¿Importa lo mismo la forma que el contenido? ¿Es la mente la que domina las palabras con su sintonía racional, o es el puro sentimiento en bruto el que nos hace querer plasmar ideas? 
+
+Compartimos algunas imágenes del hogar de Guillermo Del Toro, aclamado director, guionista, productor y novelista mexicano quien recientemente recibió un Globo de Oro a mejor director por su película La forma del Agua (The Shape of Water) entre muchos otros reconocimientos. 
+
+Esperemos que estas imágenes sirvan de inspiración y les recordamos que ¡seguimos recibiendo textos! 
+
+Bases: [www.elfuturodelayerhoy.com](www.elfuturodelayerhoy.com)
+
+Para más información comunícate a: [info@elfuturodelayerhoy.com](info@elfuturodelayerhoy.com)
+
+Si ya consultaste las bases, envía tu texto a: [contacto@elfuturodelayerhoy.com](contacto@elfuturodelayerhoy.com)
+
+![1-casa](/assets/1.jpg)
+
+![2-casa](/assets/2.jpg)
+
+![3-casa](/assets/3.jpg)
+
+![4-casa](/assets/4.jpg)
+
+![5-casa](/assets/5.jpg)
+
+![6-casa](/assets/6.jpg)
+
+![7-casa](/assets/7.jpg)

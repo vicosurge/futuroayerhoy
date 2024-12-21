@@ -6,6 +6,7 @@ originaldate: 2018-05-23 00:00:00 -0800
 categories: Historia-Corta
 tags: Historia-Corta
 author: Vico
+authorbacklink: http://digimente.blogspot.com
 ---
 
 Truenos, se escuchan motores a todo volumen de vehículos azul neón

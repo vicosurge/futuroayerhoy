@@ -1,20 +1,24 @@
-Obra: "La oscuridad cesó de golpe".
+---
+layout: post
+title: "La oscuridad cesó de golpe"
+date: 2018-09-03 00:00:00 -0800
+originaldate: 2018-04-08 00:00:00 -0800
+categories: Historia-Corta
+tags: Existencia Cotidianeidad Alcohol Amistad Cansancio Muerte-voluntaria
+author: Carlos Dario Romero
+---
 
-[Resumen]{.underline}: En este cuento breve se relata los últimos tres
-días de un hombre, los cuales están atravesados por una serie de frases
-y leyendas que ha leído en carteles publicitarios, etiquetas de bebidas
-alcohólicas y de la misma televisión que intervienen en el desarrollo de
-la línea de sucesos. Entre las cosas a destacar, se ve cómo el personaje
-afronta su realidad haciendo ingresar temas que van desde la amistad, el
-cansancio y la muerte, en especial, en uno de sus aspectos más
-interesantes: la muerte voluntaria. Dotado de una brevedad necesaria, en
-este cuento se ve una toma de decisión, la cual, deja abierta la
+En este cuento breve se relata los últimos tres días de un hombre, los cuales 
+están atravesados por una serie de frases y leyendas que ha leído en carteles 
+publicitarios, etiquetas de bebidas alcohólicas y de la misma televisión que 
+intervienen en el desarrollo de la línea de sucesos. Entre las cosas a 
+destacar, se ve cómo el personaje afronta su realidad haciendo ingresar temas 
+que van desde la amistad, el cansancio y la muerte, en especial, en uno de sus 
+aspectos más interesantes: la muerte voluntaria. Dotado de una brevedad 
+necesaria, en este cuento se ve una toma de decisión, la cual, deja abierta la
 posibilidad al lector de poder interpretarla. Entre otras cosas, podría
-ser considerado este breve cuento como el cierre a una historia que
-abre, a su vez, el camino a muchas otras.
-
-[Palabras clave]{.underline}: Existencia, Cotidianeidad, Alcohol,
-Amistad, Cansancio, Muerte voluntaria.
+ser considerado este breve cuento como el cierre a una historia que abre, a su 
+vez, el camino a muchas otras.
 
 *A mi amiga, Jade.*
 

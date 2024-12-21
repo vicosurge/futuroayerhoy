@@ -2,7 +2,7 @@
 layout: post
 title: "Un Beso"
 date: 2018-08-20 00:00:00 -0800
-date: 2018-05-30 00:00:00 -0800
+originaldate: 2018-05-30 00:00:00 -0800
 categories: Poesía
 tags: Poesía
 author: Carlos Alberto Ramírez Zepeda

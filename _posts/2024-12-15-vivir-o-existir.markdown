@@ -6,6 +6,7 @@ originaldate: 2018-06-12 00:00:00 -0800
 categories: Poesía
 tags: Poesía
 author: Luis Figueroa
+authorbacklink: https://ideasdescaradas.blogspot.com
 ---
 
 Vivir y existir no es necesariamente lo mismo, es más tu puedes vivir y no existir
