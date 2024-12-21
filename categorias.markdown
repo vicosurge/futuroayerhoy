@@ -4,7 +4,7 @@ title: Categorias
 permalink: /categorias/
 ---
 <h3>Poesia</h3>
-{% for post in site.categories["Poesia"] %}
+{% for post in site.categories["Poesía"] %}
   <ul>
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
