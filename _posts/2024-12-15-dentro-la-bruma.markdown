@@ -2,8 +2,8 @@
 layout: post
 title: "Dentro la bruma"
 date: 2018-06-12 00:00:00 -0800
-categories: Historia Corta
-tags: Historia Corta
+categories: Historia-Corta
+tags: Historia-Corta
 author: Gilberto Jaymez
 ---
 

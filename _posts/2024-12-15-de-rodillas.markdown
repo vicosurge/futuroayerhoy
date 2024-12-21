@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "De rodillas"
-date: 2018-02-18 00:00:00 -0800
-categories: Poesia
-tags: Poesia
+date: 2018-08-06 00:00:00 -0800
+originaldate: 2018-02-18 00:00:00 -0800
+categories: Poesía
+tags: Poesía
 author: Becca
 ---
 

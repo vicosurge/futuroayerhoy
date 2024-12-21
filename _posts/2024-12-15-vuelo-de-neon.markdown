@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Vuelo de Neon"
-date: 2018-05-23 00:00:00 -0800
-categories: Historia Corta
-tags: Historia Corta
+date: 2018-09-17 00:00:00 -0800
+originaldate: 2018-05-23 00:00:00 -0800
+categories: Historia-Corta
+tags: Historia-Corta
 author: Vico
 ---
 

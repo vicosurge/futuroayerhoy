@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "¿Vivir o Existir?"
-date: 2018-06-12 00:00:00 -0800
+date: 2018-09-10 00:00:00 -0800
+originaldate: 2018-06-12 00:00:00 -0800
 categories: Poesia
 tags: Poesia
 author: Luis Figueroa
