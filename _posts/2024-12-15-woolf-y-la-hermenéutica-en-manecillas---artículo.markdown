@@ -4,12 +4,21 @@ title: "Woolf y la herméneutica en manecillas"
 date: 2018-10-15 00:00:00 -0800
 originaldate: 2018-01-09 00:00:00 -0800
 categories: Ensayo
-tags: Ensayo Fenomenología Hermenéutica Existencialismo Teoría-de-la-recepción Literatura Virginia-Wolf La-Señora-Dalloway Las-Horas
+tags: [Ensayo, Fenomenología, Hermenéutica, Existencialismo, Teoría de la recepción, Literatura, Virginia Wolf, La Señora Dalloway, Las Horas]
 author: Astrid Marlene Richter Martínez
 email: riichter@hotmail.com
 age: 26
 residency: Puebla, Puebla, México.
 ---
+
+<p>
+  <strong>Palabras Clave:</strong>
+    <ul>
+    {% for tag in page.tags %}
+      <li>{{ tag }}</li>
+    {% endfor %}
+    </ul>
+</p>
 
 **Resumen**
 
