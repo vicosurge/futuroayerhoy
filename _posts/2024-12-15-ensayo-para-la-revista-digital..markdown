@@ -1,45 +1,17 @@
-![Depression-loss of loved one.jpg](media/image1.jpeg){width="3.70625in"
-height="4.7659722222222225in"}esto pequel te concetaré ami opijada
-riztyal.
+---
+layout: post
+title: "Depresión y baja autoestima en la adolescencia"
+date: 2018-10-22 00:00:00 -0800
+originaldate: 2018-06-01 00:00:00 -0800
+categories: Ensayo
+tags: [Ensayo, Depresión, Baja autoestima, Soledad, Aislamiento social, Dolor, Destrucción]
+author: Margarita Abigail Cruz Flores
+email: maguiwo123 @hotmail.com
+age: 17
+residency: Oaxaca de Juárez, Oaxaca, México.
+---
 
-RESUMEN.
-
-ÍNDICE.
-
-+-----------------------------------+-----------------------------------+
-| TEMAS.                            | NÚMERO DE PÁGINA.                 |
-+===================================+===================================+
-| Contenido                         | 1                                 |
-+-----------------------------------+-----------------------------------+
-| Introducción.                     | 2                                 |
-+-----------------------------------+-----------------------------------+
-| Resumen.                          | 3                                 |
-+-----------------------------------+-----------------------------------+
-| Palabras claves.                  | 4                                 |
-+-----------------------------------+-----------------------------------+
-| Desarrollo del trabajo.           | 5-9                               |
-|                                   |                                   |
-| -   ¿Qué es depresión?            |                                   |
-|                                   |                                   |
-| -   Consecuencias de la           |                                   |
-|     depresión.                    |                                   |
-|                                   |                                   |
-| -   ¿Qué síntomas presentan las   |                                   |
-|     personas que poseen           |                                   |
-|     depresión?                    |                                   |
-|                                   |                                   |
-| -   ¿Qué medidas debo tomar si    |                                   |
-|     padezco depresión o alguien   |                                   |
-|     cercano a mí la tiene?        |                                   |
-|                                   |                                   |
-| -                                 |                                   |
-+-----------------------------------+-----------------------------------+
-| Conclusión.                       | 10                                |
-+-----------------------------------+-----------------------------------+
-| Fuentes Bibliográficas.           | 11                                |
-+-----------------------------------+-----------------------------------+
-
-**INTRODUCCIÓN.**
+**INTRODUCCIÓN**
 
 "La mente es la raíz de la libertad."^2^
 
@@ -68,7 +40,7 @@ baja autoestima en todo el mundo.
 Y... yo te pregunto, ¿qué hemos hecho para ayudarlos?^\
 ^
 
-**RESUMEN**.
+**RESUMEN**
 
 La depresión es un estado mental, el cual daña y hiere a la persona que
 la padece, destruyéndola por completo y dejándola en la ruina total.
@@ -86,20 +58,6 @@ ayudarlos.
 
 **\
 **
-
-**PALABRAS CLAVES.**
-
-1)  Depresión.
-
-2)  Baja autoestima.
-
-3)  Soledad.
-
-4)  Aislamiento social.
-
-5)  Dolor.
-
-6)  Destrucción.
 
 **DESARROLLO DEL TEMA.**
 
@@ -330,16 +288,13 @@ Puede que aun exista esperanza para la humanidad si al menos tú que lees
 esto decides hacer algo suficientemente valiente para ayudar a los
 demás.
 
-**\
-**
-
 **FUENTES DE INFORMACIÓN.**
 
-1\. Flores Abigail. "Gritos desesperados"
+1. Flores Abigail. "Gritos desesperados"
 
-2\. Luke John, 4
+2. Luke John, 4
 
-3\. Walt Disney. "La Sirenita", 1989
+3. Walt Disney. "La Sirenita", 1989
 
 **FUENTES ELECTRÓNICAS.**
 
@@ -350,20 +305,3 @@ demás.
 -   [**https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html**](https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html)
 
 -   [**http://psicologosenmadrid.eu/baja-autoestima/**](http://psicologosenmadrid.eu/baja-autoestima/)
-
-**\
-**
-
-**DATOS PERSONALES:**
-
-**Nombre del autor:** Cruz Flores Margarita Abigail.
-
-**Seudónimo:** Abigail Flores.
-
-**Edad:** 17 años.
-
-**Lugar de residencia:** Oaxaca de Juárez, Oax. México.
-
-**Género literario:** género didáctico.
-
-**Correo electrónico:** maguiwo123 \@hotmail.com
