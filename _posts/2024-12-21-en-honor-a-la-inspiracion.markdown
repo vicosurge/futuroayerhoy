@@ -22,8 +22,6 @@ Para más información comunícate a: [info@elfuturodelayerhoy.com](mailto:info@
 
 Si ya consultaste las bases, envía tu texto a: [contacto@elfuturodelayerhoy.com](mailto:contacto@elfuturodelayerhoy.com)
 
-#{% assign images = "1, 2, 3, 4, 5, 6, 7" | split: ", " %}
-
 {% for item in images %}
   <img src="{{site.baseurl | prepend: site.url}}/assets/{{ item }}.jpg" alt="{{ item }}-casa" /><br />
 {% endfor %}
