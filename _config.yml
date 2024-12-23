@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Revista digital abierta a todo tipo de textos, publicamos cada seis meses un
   numero disponible en Amazon de manera digital y fisica. Derechos de autor
   bajo la licencia Attribution 4.0 International.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "futuroayerhoy" # the subpath of your site, e.g. /blog
+url: "https://vicosurge.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vicosurge
 
 # Build settings

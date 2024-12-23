@@ -20,4 +20,12 @@ permalink: /categorias/
     </li>
   </ul>
 {% endfor %}
-
+---
+<h3>Ensayo</h3>
+{% for post in site.categories["Ensayo"] %}
+  <ul>
+    <li>
+      <a href="{{ post.url | relative_url }}" target="_blank">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  </ul>
+{% endfor %}
