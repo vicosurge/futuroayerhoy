@@ -8,4 +8,4 @@ tags: Convocatoria
 author: Comite Editorial
 ---
 
-![convocatoria-volumen-1-año-1](/assets/26231316_813637948815649_1567675998234711445_n.png)
+<img src="{{site.baseurl | prepend: site.url}}/assets/26231316_813637948815649_1567675998234711445_n.png" alt="convocatoria-volumen-1-año-1" />
