@@ -14,7 +14,7 @@ pensamiento o porque, al contrario, su alrededor no le parece lo
 suficientemente estimulante para despertar en él esa chispa que encienda su 
 creatividad. 
 
-![zapatos1](/assets/zapatos1.jpg)
+<img src="{{site.baseurl | prepend: site.url}}/assets/zapatos1.jpg" alt="zapatos-1" />
 
 ¿Existe alguna fórmula que permita inducir dicha creatividad y nos ayude a 
 desfogar nuestros deseos literarios? ¿Hay algún secreto sólo develado a los 
@@ -23,7 +23,7 @@ grandes monstruos de la literatura que ocultan celosamente de nuestros ojos?
 la imaginación de varios lectores, al punto de que nos consideren eruditos sin 
 nosotros mismos saberlo o incluso considerarlo?
 
-![zapatos2](/assets/zapatos2.jpg)
+<img src="{{site.baseurl | prepend: site.url}}/assets/zapatos2.jpg" alt="zapatos-2" />
 
 Tal vez escribir sea como aquel trillado dicho que afirma que “la felicidad se 
 encuentra en los pequeños detalles” y sea talentoso únicamente el ser que 

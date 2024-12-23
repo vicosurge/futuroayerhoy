@@ -24,7 +24,7 @@ utilizada en zonas arqueológicas Mayas en Guatemala, se puede apreciar
 verdadera magnitud de lo que tal vez en un futuro no muy lejano llamaremos 
 Imperio Maya.
 
-![zona-arqueologica](/assets/sitio-arqueologico-de-el-zotz_96fcb455.JPG)
+<img src="{{site.baseurl | prepend: site.url}}/assets/sitio-arqueologico-de-el-zotz_96fcb455.JPG" alt="zona-arqueologica" />
 
 A la izquierda podemos ver el sitio arqueológico El Zotz como se aprecia a 
 simple vista. A la derecha observamos la imagen proporcionada por el LiDAR en 
