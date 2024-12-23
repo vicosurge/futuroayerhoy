@@ -7,7 +7,7 @@ permalink: /categorias/
 {% for post in site.categories["Poesía"] %}
   <ul>
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
+      <a href="{{ post.url | relative_url }}" target="_blank">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
     </li>
   </ul>
 {% endfor %}
@@ -16,7 +16,7 @@ permalink: /categorias/
 {% for post in site.categories["Historia-Corta"] %}
   <ul>
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
+      <a href="{{ post.url | relative_url }}" target="_blank">{{ post.title }}</a> de {{ post.author }} - {{ post.date | date: "%B %d, %Y" }}
     </li>
   </ul>
 {% endfor %}

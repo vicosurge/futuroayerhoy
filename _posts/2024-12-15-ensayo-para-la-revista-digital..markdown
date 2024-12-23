@@ -13,7 +13,7 @@ residency: Oaxaca de Juárez, Oaxaca, México.
 
 **INTRODUCCIÓN**
 
-"La mente es la raíz de la libertad."^2^
+"La mente es la raíz de la libertad."[^2].
 
 Actualmente vivimos en tiempos en donde cada ser humano es completamente
 libre de hacer cualquier actividad y de realizar cualquier acción,
@@ -37,8 +37,7 @@ ser en gran manera.
 Trescientos cincuenta millones de personas con problemas de depresión y
 baja autoestima en todo el mundo.
 
-Y... yo te pregunto, ¿qué hemos hecho para ayudarlos?^\
-^
+Y... yo te pregunto, ¿qué hemos hecho para ayudarlos?
 
 **RESUMEN**
 
@@ -55,9 +54,6 @@ es demasiado tarde.
 En este ensayo, analizaremos detenidamente la gravedad del problema y se
 creará una conciencia sobre lo que nosotros podemos hacer para
 ayudarlos.
-
-**\
-**
 
 **DESARROLLO DEL TEMA.**
 
@@ -163,7 +159,7 @@ No les importa nada, pero no quieren terminar de esta manera.
 
 ¿Qué podemos hacer?
 
-¿Qué haremos?" ^1^
+¿Qué haremos?" [^1]
 
 Cuando una persona presenta un cuadro de depresión suele repercutir
 enormemente en su vida social, familiar, laboral y personal. Esto suele
@@ -245,7 +241,7 @@ cuando aún es tiempo:
 9)  **Sentirse sin esperanzas, irritable, ansioso o culpable**
 
 10) **Ideas de muerte o
-    de [suicidio](https://medlineplus.gov/spanish/suicide.html)**
+    de [suicidio](https://medlineplus.gov/spanish/suicide.html){:target="_blank"}**
 
 **¿Qué medidas debo tomar si padezco depresión o alguien cercano a mí la
 tiene?**
@@ -262,7 +258,7 @@ posible con un psicólogo o con alguna persona especializada.
 Y en dado caso de que esa persona aún no se haya dado cuenta, podemos
 siempre ofrecer nuestra ayuda a los demás sin pedir nada a cambio.
 
-"... Ofrecerles una mano amiga a los demás amantes de la música."^3^
+"... Ofrecerles una mano amiga a los demás amantes de la música."[^3]
 
 Simplemente a veces hay que dejar de ser unos robots que siempre irán en
 buscar de las ventajas que tiene la modernidad y **despertar a ser más
@@ -288,20 +284,21 @@ Puede que aun exista esperanza para la humanidad si al menos tú que lees
 esto decides hacer algo suficientemente valiente para ayudar a los
 demás.
 
-**FUENTES DE INFORMACIÓN.**
-
-1. Flores Abigail. "Gritos desesperados"
-
-2. Luke John, 4
-
-3. Walt Disney. "La Sirenita", 1989
 
 **FUENTES ELECTRÓNICAS.**
 
--   [**https://medlineplus.gov/spanish/depression.html**](https://medlineplus.gov/spanish/depression.html)
+-   [**https://medlineplus.gov/spanish/depression.html**](https://medlineplus.gov/spanish/depression.html){:target="_blank"}
 
--   [**https://es.wikipedia.org/wiki/Depresi%C3%B3n**](https://es.wikipedia.org/wiki/Depresi%C3%B3n)
+-   [**https://es.wikipedia.org/wiki/Depresi%C3%B3n**](https://es.wikipedia.org/wiki/Depresi%C3%B3n){:target="_blank"}
 
--   [**https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html**](https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html)
+-   [**https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html**](https://cuidateplus.marca.com/enfermedades/psiquiatricas/depresion.html){:target="_blank"}
 
--   [**http://psicologosenmadrid.eu/baja-autoestima/**](http://psicologosenmadrid.eu/baja-autoestima/)
+-   [**http://psicologosenmadrid.eu/baja-autoestima/**](http://psicologosenmadrid.eu/baja-autoestima/){:target="_blank"}
+
+**FUENTES DE INFORMACIÓN.**
+
+[^1]:. Flores Abigail. "Gritos desesperados"
+
+[^2]: Luke John, 4
+
+[^3]:. Walt Disney. "La Sirenita", 1989

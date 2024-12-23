@@ -30,4 +30,4 @@ A la izquierda podemos ver el sitio arqueológico El Zotz como se aprecia a
 simple vista. A la derecha observamos la imagen proporcionada por el LiDAR en 
 donde resaltan las estructuras recientemente descubiertas.
 
-Para mayor información visita esta [liga](https://historia.nationalgeographic.com.es/a/revolucion-arqueologia-maya-aparecen-miles-estructuras-ocultas-selva-guatemala_12347).
+Para mayor información visita esta [liga](https://historia.nationalgeographic.com.es/a/revolucion-arqueologia-maya-aparecen-miles-estructuras-ocultas-selva-guatemala_12347){:target="_blank"}.
