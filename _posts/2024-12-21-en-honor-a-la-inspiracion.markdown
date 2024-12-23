@@ -22,16 +22,8 @@ Para más información comunícate a: [info@elfuturodelayerhoy.com](mailto:info@
 
 Si ya consultaste las bases, envía tu texto a: [contacto@elfuturodelayerhoy.com](mailto:contacto@elfuturodelayerhoy.com)
 
-![1-casa](/assets/1.jpg)
+{% set images = [1, 2, 3, 4, 5, 6, 7] %}
 
-![2-casa](/assets/2.jpg)
-
-![3-casa](/assets/3.jpg)
-
-![4-casa](/assets/4.jpg)
-
-![5-casa](/assets/5.jpg)
-
-![6-casa](/assets/6.jpg)
-
-![7-casa](/assets/7.jpg)
+{% for item in images %}
+  <img src="{{site.baseurl | prepend: site.url}}/assets/{{ item }}.jpg" alt="{{ item }}-casa" /><br />
+{% endfor %}
