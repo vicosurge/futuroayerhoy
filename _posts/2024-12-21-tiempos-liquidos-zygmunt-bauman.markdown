@@ -9,6 +9,7 @@ author: Comite Editorial
 ---
 
 ![bauman.jpg](/assets/Bauman.jpg)
+<img src="{{site.baseurl | prepend: site.url}}/assets/Bauman.jpg" alt="bauman" />
 
 A propósito del mundo globalizado en el que vivimos y de cómo es que las 
 frases del actual presidente de Estados Unidos pueden llegar a afectar 
