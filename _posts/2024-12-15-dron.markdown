@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dron"
+title: "Dron"
 date: 2018-10-01 00:00:00 -0800
 originaldate: 2018-05-31 00:00:00 -0800
 categories: Historia-Corta
