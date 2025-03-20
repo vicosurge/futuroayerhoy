@@ -5,7 +5,7 @@ date: 2018-08-06 00:00:00 -0800
 originaldate: 2018-02-18 00:00:00 -0800
 categories: Poesía
 tags: Poesía
-author: Becca
+author: Becca Sánchez Sigüenza
 ---
 
 Te entrego la soberanía de mi cuerpo
