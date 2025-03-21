@@ -33,7 +33,7 @@ Ni mentira, ni verdad. Ni teniendo un diccionario completo en la cabeza, ni así
 
 Recordé mi sueño. 
 
---------------------------------------------------------------------------------------------------
+----
 \-¿No quieres estudiar conmigo?
 \-No. El latín es una lengua muerta.
 \-No es ese libro.
@@ -53,7 +53,7 @@ No quería que se fuera sin nada, me daba miedo dejarla ir sin nada, me daba mie
 Alcance a poner un espejo en mi pecho. Y todo paso al revés.
 Metió su mano dentro pero todo estaba volteado, creo que saco su propio corazón.
 No me dejo nada, y no se llevó nada. Pero me había cambiado.
---------------------------------------------------------------------------------------------------
+----
 
 \-¿Para bien o para mal?
 

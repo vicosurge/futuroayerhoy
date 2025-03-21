@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carta del Comite Editorial - Año 1, Numero 1"
+title: "Carta del Comite Editorial - Año 1, Numero 2"
 date: 2018-12-19 00:00:00 -0800
 categories: Carta
 tags: Carta, Comite-Editorial, Y1N2
