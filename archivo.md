@@ -43,12 +43,10 @@ permalink: /archivo/
 
 <div class="decorative-flourish"></div>
 
-<!-- Combine all collections and regular posts -->
-{% assign all_content = site.posts | concat: site.cuentos | concat: site.poesia | concat: site.ensayos | concat: site.resenas %}
+{% assign all_content = site.posts | concat: site.cuentos | concat: site.poesia | concat: site.ensayos | concat: site.resenas | concat: site.convocatorias %}
 {% assign sorted_content = all_content | sort: 'date' | reverse %}
 
 {% if sorted_content.size > 0 %}
-  <!-- Group by year -->
   {% assign current_year = '' %}
   {% for item in sorted_content %}
     {% assign item_year = item.date | date: "%Y" %}

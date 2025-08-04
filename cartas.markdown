@@ -12,9 +12,8 @@ permalink: /cartas/
   </p>
 </div>
 
-<!-- Cartas del Comité Editorial -->
 {% assign cartas = site.posts | where: "category", "Carta" %}
-{% assign comite_posts = site.posts | where: "category", "Comite-Editorial" %}
+{% assign comite_posts = site.posts | where: "category", "Comite-Editorial" %}  
 {% assign info_posts = site.posts | where: "category", "Informacion" %}
 {% assign all_cartas = cartas | concat: comite_posts | concat: info_posts %}
 
@@ -52,7 +51,6 @@ permalink: /cartas/
   </section>
 {% endif %}
 
-<!-- Convocatorias from new collection -->
 {% if site.convocatorias.size > 0 %}
   <section class="content-section">
     <h2>🎯 Convocatorias</h2>
@@ -84,18 +82,15 @@ permalink: /cartas/
   </section>
 {% endif %}
 
-<!-- Convocatorias from _posts (legacy) -->
 {% assign convocatorias_posts = site.posts | where: "category", "Convocatoria" %}
 {% if convocatorias_posts.size > 0 %}
-  {% unless site.convocatorias.size > 0 %}
-    <section class="content-section">
+  <section class="content-section">
+    {% if site.convocatorias.size == 0 %}
       <h2>🎯 Convocatorias</h2>
       <p class="section-description">Llamados abiertos para la participación de escritores y artistas.</p>
-  {% else %}
-    <div class="decorative-flourish"></div>
-    <section class="content-section">
+    {% else %}
       <h3>Convocatorias Adicionales</h3>
-  {% endunless %}
+    {% endif %}
     
     <ul class="post-list">
       {% assign sorted_conv_posts = convocatorias_posts | sort: 'date' | reverse %}
@@ -123,7 +118,6 @@ permalink: /cartas/
   </section>
 {% endif %}
 
-<!-- If no content exists -->
 {% if all_cartas.size == 0 and site.convocatorias.size == 0 and convocatorias_posts.size == 0 %}
   <div style="text-align: center; padding: 60px 20px; color: #666;">
     <p>Las cartas y convocatorias se están preparando para su publicación.</p>
@@ -162,16 +156,5 @@ permalink: /cartas/
 .post-category {
   color: #4a7c59;
   font-weight: 500;
-}
-
-.decorative-flourish {
-  text-align: center;
-  color: #4a7c59;
-  font-size: 1.5rem;
-  margin: 40px 0;
-}
-
-.decorative-flourish::before {
-  content: "❦ ❦ ❦";
 }
 </style>
