@@ -37,7 +37,7 @@ padre, este poema que nos dejó lo pueden encontrar en la sección de poemas baj
 el nombre de Vicente Fidel Tomas Muñoz Olivera, que era su nombre completo y el 
 cual nunca le gusto usar.
 
-	También me gustaría agradecer al Comité Editorial, especialmente a mi novia 
+También me gustaría agradecer al Comité Editorial, especialmente a mi novia 
 Karen Neahlenia Pérez Medrano, por toda la ayuda en la lectura y selección de 
 textos, por la edición y diseño del libro, manejo de las redes sociales y 
 asistencia con las cuentas de Amazon y Google Books, esta revista es de todos 
