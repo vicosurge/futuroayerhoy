@@ -12,6 +12,46 @@ permalink: /cartas/
   </p>
 </div>
 
+<!-- Cartas del Comité Editorial -->
+{% assign cartas = site.posts | where: "category", "Carta" %}
+{% assign comite_posts = site.posts | where: "category", "Comite-Editorial" %}
+{% assign info_posts = site.posts | where: "category", "Informacion" %}
+{% assign all_cartas = cartas | concat: comite_posts | concat: info_posts %}
+
+{% if all_cartas.size > 0 %}
+  <section class="content-section">
+    <h2>✉️ Cartas del Comité Editorial</h2>
+    <p class="section-description">Comunicaciones, reflexiones e información del comité editorial.</p>
+    
+    <ul class="post-list">
+      {% assign sorted_cartas = all_cartas | sort: 'date' | reverse %}
+      {% for carta in sorted_cartas %}
+        <li class="post-item">
+          <div class="post-meta">
+            <time datetime="{{ carta.date | date_to_xmlschema }}">
+              {{ carta.date | date: "%d de %B, %Y" }}
+            </time>
+            {% if carta.author %}
+              • Por {{ carta.author }}
+            {% endif %}
+            {% if carta.category %}
+              • <span class="post-category">{{ carta.category | replace: "-", " " | capitalize }}</span>
+            {% endif %}
+          </div>
+          <h3 class="post-title">
+            <a href="{{ carta.url | relative_url }}">{{ carta.title | escape }}</a>
+          </h3>
+          {% if carta.excerpt %}
+            <div class="post-excerpt">
+              {{ carta.excerpt | strip_html | truncatewords: 40 }}
+            </div>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
+
 <!-- Convocatorias from new collection -->
 {% if site.convocatorias.size > 0 %}
   <section class="content-section">
@@ -44,31 +84,37 @@ permalink: /cartas/
   </section>
 {% endif %}
 
-<!-- Cartas from _posts (if any remain) -->
-{% assign cartas = site.posts | where: "category", "Carta" %}
-{% if cartas.size > 0 %}
-  <section class="content-section">
-    <h2>✉️ Cartas del Comité</h2>
-    <p class="section-description">Comunicaciones y reflexiones del comité editorial.</p>
+<!-- Convocatorias from _posts (legacy) -->
+{% assign convocatorias_posts = site.posts | where: "category", "Convocatoria" %}
+{% if convocatorias_posts.size > 0 %}
+  {% unless site.convocatorias.size > 0 %}
+    <section class="content-section">
+      <h2>🎯 Convocatorias</h2>
+      <p class="section-description">Llamados abiertos para la participación de escritores y artistas.</p>
+  {% else %}
+    <div class="decorative-flourish"></div>
+    <section class="content-section">
+      <h3>Convocatorias Adicionales</h3>
+  {% endunless %}
     
     <ul class="post-list">
-      {% assign sorted_cartas = cartas | sort: 'date' | reverse %}
-      {% for carta in sorted_cartas %}
+      {% assign sorted_conv_posts = convocatorias_posts | sort: 'date' | reverse %}
+      {% for convocatoria in sorted_conv_posts %}
         <li class="post-item">
           <div class="post-meta">
-            <time datetime="{{ carta.date | date_to_xmlschema }}">
-              {{ carta.date | date: "%d de %B, %Y" }}
+            <time datetime="{{ convocatoria.date | date_to_xmlschema }}">
+              {{ convocatoria.date | date: "%d de %B, %Y" }}
             </time>
-            {% if carta.author %}
-              • Por {{ carta.author }}
+            {% if convocatoria.author %}
+              • Por {{ convocatoria.author }}
             {% endif %}
           </div>
           <h3 class="post-title">
-            <a href="{{ carta.url | relative_url }}">{{ carta.title | escape }}</a>
+            <a href="{{ convocatoria.url | relative_url }}">{{ convocatoria.title | escape }}</a>
           </h3>
-          {% if carta.excerpt %}
+          {% if convocatoria.excerpt %}
             <div class="post-excerpt">
-              {{ carta.excerpt | strip_html | truncatewords: 40 }}
+              {{ convocatoria.excerpt | strip_html | truncatewords: 40 }}
             </div>
           {% endif %}
         </li>
@@ -78,7 +124,7 @@ permalink: /cartas/
 {% endif %}
 
 <!-- If no content exists -->
-{% if site.convocatorias.size == 0 and cartas.size == 0 %}
+{% if all_cartas.size == 0 and site.convocatorias.size == 0 and convocatorias_posts.size == 0 %}
   <div style="text-align: center; padding: 60px 20px; color: #666;">
     <p>Las cartas y convocatorias se están preparando para su publicación.</p>
     <p><em>Vuelve pronto para descubrir nuevas oportunidades de participación.</em></p>
@@ -99,11 +145,23 @@ permalink: /cartas/
   padding-bottom: 10px;
 }
 
+.content-section h3 {
+  font-family: 'Crimson Text', serif;
+  color: #4a7c59;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
 .section-description {
   color: #666;
   font-style: italic;
   margin-bottom: 30px;
   font-size: 1rem;
+}
+
+.post-category {
+  color: #4a7c59;
+  font-weight: 500;
 }
 
 .decorative-flourish {

@@ -50,6 +50,7 @@ declare -A COLLECTIONS=(
     ["_ensayos"]="Ensayos y reflexiones" 
     ["_resenas"]="Reseñas literarias"
     ["_convocatorias"]="Convocatorias y anuncios"
+    ["_cartas"]="Cartas e información del comité"
 )
 
 # Category mappings (handles various spellings and cases)
@@ -73,6 +74,9 @@ get_target_folder() {
             ;;
         *"convocatoria"*|*"anuncio"*)
             echo "_convocatorias"
+            ;;
+        *"carta"*|*"comite"*|*"informacion"*|*"editorial"*)
+            echo "_cartas"
             ;;
         *)
             echo "_posts"  # Keep in _posts if category doesn't match
