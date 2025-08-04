@@ -43,6 +43,7 @@ permalink: /archivo/
 
 <div class="decorative-flourish"></div>
 
+<!-- Simple approach: Just list all content in one big list -->
 {% assign all_content = '' | split: '' %}
 {% assign all_content = all_content | concat: site.posts %}
 {% if site.cuentos.size > 0 %}
@@ -64,45 +65,37 @@ permalink: /archivo/
 {% assign sorted_content = all_content | sort: 'date' | reverse %}
 
 {% if sorted_content.size > 0 %}
-  {% assign current_year = '' %}
-  {% for item in sorted_content %}
-    {% assign item_year = item.date | date: "%Y" %}
-    
-    {% if item_year != current_year %}
-      {% unless forloop.first %}</ul>{% endunless %}
-      <h2 class="year-header">{{ item_year }}</h2>
-      <ul class="post-list">
-      {% assign current_year = item_year %}
-    {% endif %}
-    
-    <li class="post-item">
-      <div class="post-meta">
-        <time datetime="{{ item.date | date_to_xmlschema }}">
-          {{ item.date | date: "%d de %B" }}
-        </time>
-        {% if item.collection %}
-          • <span class="post-category">{{ item.collection | capitalize }}</span>
-        {% elsif item.category %}
-          • <span class="post-category">{{ item.category | capitalize }}</span>
-        {% endif %}
-        {% if item.author %}
-          • Por {{ item.author }}
-        {% endif %}
-      </div>
-      <h3 class="post-title">
-        <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-      </h3>
-      {% if item.excerpt %}
-        <div class="post-excerpt">
-          {{ item.excerpt | strip_html | truncatewords: 35 }}
+  <h2 style="text-align: center; font-family: 'Crimson Text', serif; color: #2d5a3d; margin-bottom: 30px;">
+    Todos los Textos ({{ sorted_content.size }} publicaciones)
+  </h2>
+  
+  <ul class="post-list">
+    {% for item in sorted_content %}
+      <li class="post-item">
+        <div class="post-meta">
+          <time datetime="{{ item.date | date_to_xmlschema }}">
+            {{ item.date | date: "%d de %B, %Y" }}
+          </time>
+          {% if item.collection %}
+            • <span class="post-category">{{ item.collection | capitalize }}</span>
+          {% elsif item.category %}
+            • <span class="post-category">{{ item.category | capitalize }}</span>
+          {% endif %}
+          {% if item.author %}
+            • Por {{ item.author }}
+          {% endif %}
         </div>
-      {% endif %}
-    </li>
-    
-    {% if forloop.last %}
-      </ul>
-    {% endif %}
-  {% endfor %}
+        <h3 class="post-title">
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        </h3>
+        {% if item.excerpt %}
+          <div class="post-excerpt">
+            {{ item.excerpt | strip_html | truncatewords: 35 }}
+          </div>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 {% else %}
   <div style="text-align: center; padding: 60px 20px; color: #666;">
     <p>El archivo está siendo preparado.</p>
@@ -146,28 +139,6 @@ permalink: /archivo/
   color: #666;
   margin-top: 5px;
   font-family: 'Crimson Text', serif;
-}
-
-.year-header {
-  font-family: 'Crimson Text', serif;
-  color: #2d5a3d;
-  font-size: 1.8rem;
-  margin: 50px 0 30px;
-  padding: 15px 0;
-  border-bottom: 2px solid #e8f5e8;
-  text-align: center;
-  position: relative;
-}
-
-.year-header::before {
-  content: "";
-  position: absolute;
-  bottom: -2px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 60px;
-  height: 2px;
-  background: #4a7c59;
 }
 
 @media screen and (max-width: 600px) {
