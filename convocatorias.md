@@ -1,4 +1,3 @@
-## convocatorias.md
 ---
 layout: page
 title: Convocatorias

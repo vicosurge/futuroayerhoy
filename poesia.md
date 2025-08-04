@@ -1,4 +1,3 @@
-## poesia.md
 ---
 layout: page
 title: Poesía

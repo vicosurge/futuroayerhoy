@@ -1,4 +1,3 @@
-## cuentos.md
 ---
 layout: page
 title: Cuentos

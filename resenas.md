@@ -1,4 +1,3 @@
-## resenas.md
 ---
 layout: page
 title: Reseñas

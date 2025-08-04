@@ -1,4 +1,3 @@
-## ensayos.md
 ---
 layout: page
 title: Ensayos
