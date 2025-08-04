@@ -7,17 +7,8 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
+# Site settings
 title: El futuro del ayer, hoy
 email: comite.editorial@elfuturodelayerhoy.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -33,23 +24,82 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Collections for organizing literary content
+collections:
+  cuentos:
+    output: true
+    permalink: /:collection/:name/
+  poesia:
+    output: true 
+    permalink: /:collection/:name/
+  ensayos:
+    output: true
+    permalink: /:collection/:name/
+  resenas:
+    output: true
+    permalink: /:collection/:name/
+
+# Default settings for collections
+defaults:
+  - scope:
+      path: ""
+      type: "cuentos"
+    values:
+      layout: "post"
+      category: "cuentos"
+  - scope:
+      path: ""
+      type: "poesia"
+    values:
+      layout: "post"
+      category: "poesia"
+  - scope:
+      path: ""
+      type: "ensayos"
+    values:
+      layout: "post"
+      category: "ensayos"
+  - scope:
+      path: ""
+      type: "resenas"
+    values:
+      layout: "post"
+      category: "resenas"
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
 markdown: kramdown
+
+# Custom variables
+literary_sections:
+  cuentos:
+    title: "Cuentos"
+    description: "Narrativas breves que exploran la condición humana y mundos imaginarios"
+    icon: "📖"
+  poesia:
+    title: "Poesía" 
+    description: "Versos que capturan emociones, imágenes y reflexiones líricas"
+    icon: "✨"
+  ensayos:
+    title: "Ensayos"
+    description: "Reflexiones profundas sobre literatura, cultura y sociedad"
+    icon: "💭"
+  resenas:
+    title: "Reseñas"
+    description: "Análisis críticos de obras literarias contemporáneas"
+    icon: "📝"

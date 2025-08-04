@@ -1,5 +1,358 @@
+// Custom styles for El futuro del ayer, hoy
+// Place this in: assets/css/style.scss
+
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minima";
+
+// Color palette
+$primary-green: #2d5a3d;
+$accent-green: #4a7c59;
+$light-green: #e8f5e8;
+$dark-green: #1a3d2e;
+$warm-white: #fefffe;
+$soft-gray: #f7f7f7;
+$text-dark: #2c2c2c;
+$text-light: #666;
+
+// Typography
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
+$literary-font: 'Crimson Text', serif;
+$modern-font: 'Inter', sans-serif;
+
+// Override Minima variables
+$base-font-size: 18px;
+$base-line-height: 1.6;
+$text-color: $text-dark;
+$background-color: $warm-white;
+$brand-color: $primary-green;
+$grey-color: $text-light;
+
+// Custom styling
+body {
+  font-family: $modern-font;
+  line-height: 1.7;
+  color: $text-dark;
+  background: linear-gradient(135deg, $warm-white 0%, $soft-gray 100%);
+  min-height: 100vh;
+}
+
+// Header customization
+.site-header {
+  background: linear-gradient(135deg, $primary-green 0%, $accent-green 100%);
+  border: none;
+  box-shadow: 0 2px 15px rgba(45, 90, 61, 0.15);
+  
+  .site-title {
+    font-family: $literary-font;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    letter-spacing: -0.5px;
+    
+    &:hover {
+      color: white;
+      text-decoration: none;
+    }
+  }
+  
+  .site-nav {
+    .page-link {
+      color: rgba(255, 255, 255, 0.9);
+      font-weight: 400;
+      font-size: 0.95rem;
+      transition: all 0.3s ease;
+      
+      &:hover {
+        color: white;
+        text-decoration: underline;
+        text-decoration-color: rgba(255, 255, 255, 0.6);
+      }
+    }
+    
+    .trigger {
+      border: none;
+    }
+  }
+}
+
+// Main content area
+.page-content {
+  padding: 60px 0;
+  background: transparent;
+}
+
+.wrapper {
+  max-width: 900px;
+  position: relative;
+}
+
+// Home page styling
+.home {
+  .site-description {
+    text-align: center;
+    font-family: $literary-font;
+    font-size: 1.3rem;
+    color: $text-light;
+    margin: 40px 0 60px;
+    font-style: italic;
+    line-height: 1.5;
+    
+    &::before, &::after {
+      content: "❦";
+      display: block;
+      color: $accent-green;
+      font-size: 1.5rem;
+      margin: 20px 0;
+    }
+  }
+  
+  .content-sections {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin: 50px 0;
+  }
+  
+  .section-card {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 20px rgba(45, 90, 61, 0.08);
+    transition: all 0.3s ease;
+    border-left: 4px solid $accent-green;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 30px rgba(45, 90, 61, 0.15);
+    }
+    
+    h3 {
+      font-family: $literary-font;
+      color: $primary-green;
+      margin-bottom: 15px;
+      font-size: 1.4rem;
+    }
+    
+    p {
+      color: $text-light;
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    
+    .section-link {
+      color: $accent-green;
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      
+      &:hover {
+        color: $primary-green;
+        text-decoration: underline;
+      }
+      
+      &::after {
+        content: " →";
+        transition: transform 0.2s ease;
+      }
+      
+      &:hover::after {
+        transform: translateX(3px);
+      }
+    }
+  }
+}
+
+// Post listings
+.post-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  
+  .post-item {
+    background: white;
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(45, 90, 61, 0.06);
+    border-left: 3px solid $light-green;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      border-left-color: $accent-green;
+      box-shadow: 0 4px 20px rgba(45, 90, 61, 0.12);
+    }
+    
+    .post-meta {
+      font-size: 0.85rem;
+      color: $text-light;
+      margin-bottom: 8px;
+      font-family: $modern-font;
+    }
+    
+    .post-title {
+      font-family: $literary-font;
+      font-size: 1.3rem;
+      line-height: 1.3;
+      margin-bottom: 10px;
+      
+      a {
+        color: $primary-green;
+        text-decoration: none;
+        
+        &:hover {
+          color: $accent-green;
+          text-decoration: underline;
+        }
+      }
+    }
+    
+    .post-excerpt {
+      color: $text-light;
+      line-height: 1.6;
+      margin: 0;
+    }
+  }
+}
+
+// Individual post styling
+.post {
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(45, 90, 61, 0.08);
+  margin-bottom: 40px;
+  
+  .post-header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid $light-green;
+    
+    .post-title {
+      font-family: $literary-font;
+      font-size: 2.2rem;
+      color: $primary-green;
+      margin-bottom: 15px;
+      line-height: 1.2;
+    }
+    
+    .post-meta {
+      color: $text-light;
+      font-size: 0.9rem;
+      font-style: italic;
+    }
+  }
+  
+  .post-content {
+    font-family: $literary-font;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: $text-dark;
+    
+    p {
+      margin-bottom: 1.5rem;
+      text-align: justify;
+    }
+    
+    h2, h3, h4 {
+      font-family: $modern-font;
+      color: $primary-green;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    
+    blockquote {
+      border-left: 4px solid $accent-green;
+      background: $light-green;
+      padding: 20px;
+      margin: 30px 0;
+      font-style: italic;
+      border-radius: 0 8px 8px 0;
+    }
+  }
+}
+
+// Category/tag styling
+.category-header {
+  text-align: center;
+  margin: 40px 0 60px;
+  
+  h1 {
+    font-family: $literary-font;
+    color: $primary-green;
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .category-description {
+    font-style: italic;
+    color: $text-light;
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+// Footer
+.site-footer {
+  background: $primary-green;
+  color: rgba(255, 255, 255, 0.8);
+  border: none;
+  
+  .footer-heading {
+    color: white;
+    font-family: $literary-font;
+  }
+  
+  a {
+    color: rgba(255, 255, 255, 0.9);
+    
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Decorative elements
+.decorative-flourish {
+  text-align: center;
+  color: $accent-green;
+  font-size: 1.5rem;
+  margin: 40px 0;
+  
+  &::before {
+    content: "❦ ❦ ❦";
+  }
+}
+
+// Responsive design
+@media screen and (max-width: 800px) {
+  .site-header .site-title {
+    font-size: 1.5rem;
+  }
+  
+  .home .content-sections {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .post {
+    padding: 25px;
+    
+    .post-header .post-title {
+      font-size: 1.8rem;
+    }
+    
+    .post-content {
+      font-size: 1rem;
+    }
+  }
+  
+  .category-header h1 {
+    font-size: 2rem;
+  }
+}

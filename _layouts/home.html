@@ -3,32 +3,150 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <div class="site-description">
+    {{ site.description }}
+  </div>
 
-  {{ content }}
+  <div class="content-sections">
+    {% for section_data in site.literary_sections %}
+      {% assign section_key = section_data[0] %}
+      {% assign section = section_data[1] %}
+      {% assign collection = site[section_key] %}
+      
+      <div class="section-card">
+        <h3>{{ section.icon }} {{ section.title }}</h3>
+        <p>{{ section.description }}</p>
+        
+        {% if collection.size > 0 %}
+          <p><strong>{{ collection.size }}</strong> {% if collection.size == 1 %}texto{% else %}textos{% endif %} disponibles</p>
+          
+          <!-- Show latest 2 items from this collection -->
+          {% assign latest_items = collection | sort: 'date' | reverse | limit: 2 %}
+          {% if latest_items.size > 0 %}
+            <div class="latest-items">
+              <h4>Últimos:</h4>
+              <ul>
+                {% for item in latest_items %}
+                  <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        {% else %}
+          <p>Próximamente...</p>
+        {% endif %}
+        
+        <a href="/{{ section_key }}/" class="section-link">Ver todos los {{ section.title | downcase }}</a>
+      </div>
+    {% endfor %}
+  </div>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+  <!-- Recent posts section -->
+  {% if site.posts.size > 0 %}
+    <div class="decorative-flourish"></div>
+    
+    <section class="recent-posts">
+      <h2>Publicaciones Recientes</h2>
+      <ul class="post-list">
+        {% for post in site.posts limit: 5 %}
+          <li class="post-item">
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%d de %B, %Y" }}
+              </time>
+              {% if post.category %}
+                • <span class="post-category">{{ post.category | capitalize }}</span>
+              {% endif %}
+            </div>
+            <h3 class="post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h3>
+            {% if post.excerpt %}
+              <div class="post-excerpt">
+                {{ post.excerpt | strip_html | truncatewords: 30 }}
+              </div>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      
+      {% if site.posts.size > 5 %}
+        <p class="more-posts">
+          <a href="/archivo/">Ver todos los textos →</a>
+        </p>
+      {% endif %}
+    </section>
+  {% endif %}
 </div>
+
+<style>
+.latest-items {
+  margin-top: 15px;
+  font-size: 0.9rem;
+}
+
+.latest-items h4 {
+  color: #4a7c59;
+  margin-bottom: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.latest-items ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.latest-items li {
+  margin-bottom: 5px;
+  padding-left: 15px;
+  position: relative;
+}
+
+.latest-items li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #4a7c59;
+}
+
+.latest-items a {
+  color: #2d5a3d;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.latest-items a:hover {
+  text-decoration: underline;
+}
+
+.recent-posts h2 {
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+  color: #2d5a3d;
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+}
+
+.more-posts {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.more-posts a {
+  color: #4a7c59;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.more-posts a:hover {
+  color: #2d5a3d;
+  text-decoration: underline;
+}
+
+.post-category {
+  color: #4a7c59;
+  font-weight: 500;
+}
+</style>
