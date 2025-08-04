@@ -19,7 +19,7 @@ mucha felicidad y es un privilegio para nosotros ser quienes presentan algunos
 de los autores que han depositado su confianza en nosotros, esperamos sea del 
 agrado de nuestros lectores el contenido que aquí presentamos.
 
-	Personalmente me gustaría dedicar este número a mi padre quien falleció 
+Personalmente me gustaría dedicar este número a mi padre quien falleció 
 el primero de Diciembre de este año, siempre trabajador y sobreviviente desde 
 su nacimiento a varios incidentes que amenazaron con tomar su vida, incluyendo 
 los incidentes de 1968 en el Distrito Federal, o Ciudad de México, en secreto 
