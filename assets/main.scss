@@ -1,10 +1,10 @@
-// Custom styles for El futuro del ayer, hoy
-// Place this in: assets/css/style.scss
-
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import "minima";
+
+// Custom styles for El futuro del ayer, hoy
 
 // Color palette
 $primary-green: #2d5a3d;
@@ -326,6 +326,78 @@ body {
   
   &::before {
     content: "❦ ❦ ❦";
+  }
+}
+
+// Recent posts styling
+.recent-posts h2 {
+  text-align: center;
+  font-family: $literary-font;
+  color: $primary-green;
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+}
+
+.more-posts {
+  text-align: center;
+  margin-top: 30px;
+  
+  a {
+    color: $accent-green;
+    text-decoration: none;
+    font-weight: 500;
+    
+    &:hover {
+      color: $primary-green;
+      text-decoration: underline;
+    }
+  }
+}
+
+.post-category {
+  color: $accent-green;
+  font-weight: 500;
+}
+
+// Latest items styling
+.latest-items {
+  margin-top: 15px;
+  font-size: 0.9rem;
+  
+  h4 {
+    color: $accent-green;
+    margin-bottom: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    padding-left: 15px;
+    position: relative;
+    
+    &::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: $accent-green;
+    }
+  }
+  
+  a {
+    color: $primary-green;
+    text-decoration: none;
+    font-size: 0.9rem;
+    
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 

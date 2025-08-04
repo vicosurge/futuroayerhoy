@@ -42,7 +42,24 @@ layout: default
   </div>
 
   <!-- Recent posts section -->
-  {% assign all_content = site.posts | concat: site.cuentos | concat: site.poesia | concat: site.ensayos | concat: site.resenas | concat: site.convocatorias %}
+  {% assign all_content = '' | split: '' %}
+  {% assign all_content = all_content | concat: site.posts %}
+  {% if site.cuentos.size > 0 %}
+    {% assign all_content = all_content | concat: site.cuentos %}
+  {% endif %}
+  {% if site.poesia.size > 0 %}
+    {% assign all_content = all_content | concat: site.poesia %}
+  {% endif %}
+  {% if site.ensayos.size > 0 %}
+    {% assign all_content = all_content | concat: site.ensayos %}
+  {% endif %}
+  {% if site.resenas.size > 0 %}
+    {% assign all_content = all_content | concat: site.resenas %}
+  {% endif %}
+  {% if site.convocatorias.size > 0 %}
+    {% assign all_content = all_content | concat: site.convocatorias %}
+  {% endif %}
+  
   {% assign sorted_content = all_content | sort: 'date' | reverse %}
   
   {% if sorted_content.size > 0 %}

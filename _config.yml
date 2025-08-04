@@ -23,6 +23,8 @@ github_username: vicosurge
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # Collections for organizing literary content
 collections:
