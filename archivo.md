@@ -30,6 +30,14 @@ permalink: /archivo/
       <span class="stat-number">{{ site.resenas.size }}</span>
       <span class="stat-label">Reseñas</span>
     </div>
+    <div class="stat-item">
+      <span class="stat-number">{{ site.convocatorias.size }}</span>
+      <span class="stat-label">Convocatorias</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">{{ site.posts.size }}</span>
+      <span class="stat-label">Otros</span>
+    </div>
   </div>
 </div>
 

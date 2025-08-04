@@ -38,6 +38,9 @@ collections:
   resenas:
     output: true
     permalink: /:collection/:name/
+  convocatorias:
+    output: true
+    permalink: /:collection/:name/
 
 # Default settings for collections
 defaults:
@@ -65,6 +68,12 @@ defaults:
     values:
       layout: "post"
       category: "resenas"
+  - scope:
+      path: ""
+      type: "convocatorias"
+    values:
+      layout: "post"
+      category: "convocatorias"
 
 # Pagination
 paginate: 10
@@ -103,3 +112,7 @@ literary_sections:
     title: "Reseñas"
     description: "Análisis críticos de obras literarias contemporáneas"
     icon: "📝"
+  convocatorias:
+    title: "Convocatorias"
+    description: "Llamados abiertos para la participación de escritores y artistas"
+    icon: "📢"
