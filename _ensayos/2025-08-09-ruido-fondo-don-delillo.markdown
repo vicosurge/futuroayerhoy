@@ -4,7 +4,7 @@ title: "Ruido de fondo, de Don DeLillo, o la escritura que evita el miedo a la m
 date: 2025-08-09 05:27:00 -0800
 originaldate: 2025-08-09 05:27:00 -0800
 categories: Ensayo
-tags: Ensayo
+tags: [Ensayo]
 author: Ulises Novo
 slug: ruido-fondo-don-delillo
 ---
