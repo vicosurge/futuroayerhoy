@@ -6,7 +6,7 @@ originaldate: 2019-07-05 12:00:00 -0800
 categories: Ensayo
 tags: Ensayo
 author: Ulises Novo
-slug: ruido-fondo-don-delilo
+slug: 'ruido-fondo-don-delilo'
 ---
 
 Resumen:
