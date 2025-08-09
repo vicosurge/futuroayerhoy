@@ -14,7 +14,8 @@ slug: derrida-odisea-amistad
 > “Ahí donde crece la salvación crece también el peligro”  
 > Hölderlin
 
-![Derrida](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derrida_Dibujo.jpg/500px-Derrida_Dibujo.jpg?20180630222538 "Retrato de Derrida realizado por Arturo Espinosa. Foto tomada de Wikipedia")
+![Derrida](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derrida_Dibujo.jpg/500px-Derrida_Dibujo.jpg?20180630222538 )
+*Retrato de Derrida realizado por Arturo Espinosa. Foto tomada de Wikipedia*
 
 Encontremos la violencia allí donde no se ve, donde no levanta sospechas. Escarbemos en la normalidad, en esos principios que al parecer son incuestionables y que edifican nuestras relaciones de amistad. El filósofo Jacques Derrida aparece en escena, es el elegido para dar el giro, para cuestionar la vida desde lo cotidiano y abordar esta cuestión. El pensador argelino sabe que es en la normalidad donde se esconde la más temible de las tiranías: la que no se cuestiona y se valida gracias la fuerza del hábito.
 
