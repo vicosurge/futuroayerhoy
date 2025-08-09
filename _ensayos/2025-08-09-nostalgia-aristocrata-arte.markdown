@@ -1,0 +1,30 @@
+---
+layout: post
+title: "La nostalgia del aristócrata: Una mirada a la actualidad del arte"
+date: 2025-08-09 06:28:19 -0800
+originaldate: 2019-07-12 00:00:00 -0800
+categories: Ensayos
+tags: [Ensayos]
+author: Felipe Cardona Pulido
+slug: nostalgia-aristocrata-arte
+---
+
+Hablemos de una situación evidente: El arte como fenómeno cultural ha sido alterado en su fibra más esencial. Una nueva concepción toma fuerza, no sólo en el método de trabajo del artista, sino en la forma en que el espectador interpreta las piezas artísticas. Ya el filósofo alemán Walter Benjamin, animado por su carácter visionario, había reflexionado sobre este nuevo talante del arte en un ensayo titulado La obra de arte en la era de su reproductibilidad técnica.  
+
+El texto que salió a la luz en medio de una coyuntura histórica marcada por la inestabilidad generada por el advenimiento de los nacionalismos en Europa, presenta una nueva forma de entender el arte en el núcleo de las incipientes sociedades industriales. Para esta nueva concepción el filósofo alemán destaca el papel de las revoluciones tecnológicas y su influencia decisiva en la técnica artística. El cambio sustancial ocurre, según el filósofo, cuando las piezas artísticas se reproducen en serie de forma ininterrumpida en cualquier medio o superficie.  Este potencial de reproducibilidad altera definitivamente la obra y la convierte en un objeto de consumo. Podemos tomar como ejemplo a la Monalisa de Leonardo Da Vinci, quizá la obra más reproducida en la actualidad. Ya no tenemos que viajar al Louvre en París para conocer la pintura, al contrario, debido a su presencia intimidante en casi toda nuestra cotidianidad, es casi imposible no conocerla.
+
+Esta “industrialización” de la imagen genera por consiguiente un cambio en los criterios de percepción.  El también filósofo Eduardo Cadava, entusiasta de la teoría de Benjamin, cree que esta condición, lejos de favorecer al arte lo afecta de manera negativa. Cada vez que una obra se reproduce se acerca cada vez más al abismo del desconocimiento, hay digámoslo de cierta forma, una infidelidad al original que conduce a la extrañeza. Entre más popular es una pieza artística es más factible que la intención inicial del artista se difumine entre la infinidad de interpretaciones que resultan de esta abundancia descontrolada.      
+
+Otro aspecto capital por destacar en este giro de la percepción se refiere al estatus del espectador. La producción en masa de imágenes artísticas termina por impactar a personas antes vetadas por su condición social. Ocurre entonces que la élite letrada cede sus privilegios intelectuales para que cualquiera pueda disfrutar de los bienes artísticos. Benjamin, que se debatía entre la época romántica y una nueva era mucho más práctica escribió con nostalgia: “el arte pierde el aura cúltica que previamente lo elevaba como una sagrada reliquia, por encima del profano mundo cotidiano del espectador”.
+
+Es claro que la referencia de Benjamin hacía el mundo profano no es otra cosa que el coletazo de una élite intelectual que veía como el arte entraba a formar parte del dominio público.  Benjamin da voz a los aristócratas que pierden la exclusividad, es el abanderado de las elites pierden su distinción. Por lo demás su concepción es clara, el arte está ligado a lo sagrado y sólo las mentes privilegiadas están a la altura de estas reliquias de la humanidad.
+
+Sin embargo, pese a que este coloquio con Benjamin nos haya dejado un tanto desesperanzados, hay otros factores a tener en cuenta que nos obligan a mirar este fenómeno de forma distinta.  Que el arte se haya convertido en un objeto de consumo no quiere decir que haya perdido su contundencia simbólica. Al contrario, su papel es cada vez más activo. Es obvio que sus funciones se vieron alteradas al entrar a ser parte del dominio popular, pero esto no desmerita en nada su nuevo carácter.  
+
+Este giro en la naturaleza del arte ha generado una nueva generación de artistas, que lejos de refugiarse en la nostalgia de lo excepcional, han aprovechado la condición popular del arte para generar hechos que superan lo meramente estético. Se trata de aprovechar la popularidad del arte y su acogida simbólica para generar debates abiertos y construir conocimiento.  Es así como el artista se convierte en un sujeto activo al dinamizar su campo de acción. A veces este vínculo con la sociedad se hace tan estrecho que el artista termina por involucrarse de lleno en la promoción cultural.
+
+El artista ha salido de su autismo de buhardilla para buscar nuevos escenarios, el lienzo se ha quedado rezagado para darle pie a otros formatos como los muros de las calles, las prendas de vestir y las plataformas multimedia. También los egos se van diluyendo y se forman colectivos de artistas, grupos que abogan por las reivindicaciones sociales. Es de esta forma que el arte se convierte en un instrumento de interacción social, la obra pasa a un segundo plano y se da privilegio a la atmosfera, al espacio artístico, al diálogo y a la interacción de distintos imaginarios. Todo esto siguiendo el proceso de popularización de las iniciativas culturales.
+
+Las piezas artísticas también salen de la comodidad del museo y se forman exposiciones en bodegas y casas abandonadas, generando así nuevos espacios de significación con el público. Cada vez hay más espacios de participación. Un fenómeno muy común en varias capitales del mundo son los circuitos artísticos que se forman en los barrios marginales.
+
+Toda esta oleada artística es ejemplo tangible de cómo a través de la divulgación y la intención pedagógica el arte fortalece su presencia dentro de la cultura.  Es a través de estos espacios, que hoy son pedagógicos y casi siempre gratuitos, que el público se reconcilia con el arte. Estamos muy lejos de lo que proyectaba Walter Benjamin, el arte no ha perdido su magia. Sólo debemos entender que esta magia tiene una naturaleza distinta, una mucho más ligada al hecho de que la obra de arte está a nuestro alcance y que puede ofrecernos infinitas posibilidades.
