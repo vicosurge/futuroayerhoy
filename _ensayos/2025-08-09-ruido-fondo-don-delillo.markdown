@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ruido de fondo, de Don DeLillo, o la escritura que evita el miedo a la muerte"
-date: 2025-08-09 05:27:00 -0800
-originaldate: 2025-08-09 05:27:00 -0800
+date: 2025-08-08 05:27:00 -0800
+originaldate: 2025-08-08 05:27:00 -0800
 categories: Ensayo
 tags: [Ensayo]
 author: Ulises Novo

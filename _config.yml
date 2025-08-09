@@ -118,3 +118,5 @@ literary_sections:
     title: "Convocatorias"
     description: "Llamados abiertos para la participación de escritores y artistas"
     icon: "📢"
+
+future: true
