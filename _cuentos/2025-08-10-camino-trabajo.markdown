@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Camino al trabajo"
+date: 2025-08-10 05:24:58 -0800
+originaldate: 2019-10-28 00:00:00 -0800
+categories: Historia-Corta
+tags: [Historia-Corta]
+author: Mirza Eunice Tello Cruz
+slug: camino-trabajo
+--- 
+
+Alarma rota. Boiler apagado. Café diluido. Labial rojo en la taza. Los perros ladrando al camión de la basura que olvidaste sacar. Una paloma gris y una café viven desde hace un año en la cochera y aprovechan para robarse las croquetas. 7:28 am. Una carrera contra tiempo. Tope. Tope. Piedra. Estación de radio atorada en el 91.7. Alto. Deja cruzar a la chica que va a la prepa, porque la banqueta es un rompecabezas. Espérame chica, no tengo a dónde orillarme. De repente apareció un agujero negro en medio de la calle y quien sabe a cuál dimensión me lleve si caigo ahí dentro. El señor del Honda Civic que estaba sobre el paso peatonal se va de largo sin dejarme pasar cuando era mi turno. Bueno, está bien, dele usted señor, ya no me queda de otra.
+
+Ahora nos acercamos a la médula espinal donde todos convergemos sobre un mismo punto. El entronque es un enfrentamiento a sangre fría, se trata de ver quién se impone sobre el otro para llegar al extremo contrario. Después de haber hecho fila para salir de la colonia, ha llegado mi momento. Ah, no, qué va. Nunca falta quién prefiera hacer sus propias reglas de tránsito. Así funciona esta jungla. Se puso un Versa a lado mío y ya no veo quién viene desde el otro lado. Es curioso. Nos creemos unas fieras al volante, dueños de las calles, pero un rozón y ya valió nuestro imperio por dos meses. 
+
+Gonzalitos está hasta la madre como siempre. Suena por enésima vez en la radio Four Out of Five, como si fuera la única canción de los Arctic Monkeys. Aunque a veces me aburra saberme el orden del playlist de las mañanas, me ayuda a tener paciencia cuando voy en el tráfico a paso de hormiga. Ahora tengo que pedir permiso para enredarme entre los hilos interminables de vías circulatorias. Meterme al carril es como intentar pasar desapercibida en una sala de cine a mitad de la película, en un camino a oscuras entre las filas para buscar mi asiento, donde soy una sombra que interrumpe el clímax de la historia para los que habían llegado a tiempo. Pongo la direccional. No funciona. Avanzo. Saco la mano. A todos les vale queso. Procedo a sacar la mitad de mí por la ventana. Parece que alguien tuvo piedad. Logré incorporarme. 
+
+La ciudad es un caleidoscopio en movimiento. No hay lugar para detenerse ni para contemplar la nube de contaminación sobre las montañas, paisaje que se esconde tras los panorámicos de Ora Ahora. Nos dejamos llevar por la corriente de la rutina del egoísmo; caminas, conduces o pasan por encima de ti. El tiempo se dilata y se contrae sin pausas ni descansos. Cada segundo para llegar al trabajo cuenta como una gota de lluvia que combate la canícula en agosto. Por eso la señora de la camioneta se pasa el semáforo en rojo por arriba del puente, en el cruce de Pablo González y Gonzalitos; mientras que debajo, en un pequeño hueco entre el precipicio de miles de autos y un techo de vías para trenes de carga, se encuentra el pequeño refugio de unos migrantes que fueron poco a poco juntando cartones y bloques para escabullirse de las lluvias y del frío. 
+
+Testigos de la bestialidad de los carros, desde las alturas miden la velocidad de la luz a la que viajamos todos, cuentan los choques diarios y las peleas interminables que han sucedido entre mujeres y hombres que claman tener la razón a toda costa, porque manejar implica echarle la culpa al otro por no seguir las reglas de la jungla. Luego de mirar hacia el desastre vial debajo de ellos, suben a la superficie a pedir ayuda en vano, a quienes no tienen tiempo para pensar fuera de sí mismos.
+
+Doy un fuerte respiro. Estoy a más de la mitad de mi camino. Conduzco en modo automático pensando en lo que tengo que hacer después. Acelero, freno, acelero. ¿Qué pendiente tengo que hacer hoy en la oficina?  Me conecto. Acelero y doy vuelta. Me desconecto. No he comprado croqueta a los perros ni he subido mi tarea del parcial. Un tránsito. Otro choque. Dos heridos. La sirena de una ambulancia que intenta pasar. Me conecto. Vuelvo al presente de golpe.
