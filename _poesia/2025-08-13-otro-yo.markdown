@@ -1,0 +1,20 @@
+---
+layout: post
+title: "El otro y yo"
+date: 2025-08-13 16:46:32 -0800
+originaldate: 2020-03-06 00:00:00 -0800
+categories: Poesía
+tags: [Poesía]
+author: Hugo Gómez Jaime
+slug: otro-yo
+---
+
+Adentro, el yo sensible  
+fulgura como rosada aurora,  
+afuera, el yo visible  
+como eco de una ninfa cantora.  
+
+Afuera, el otro aparente  
+me mira entre reflejos luminosos,  
+adentro, el otro durmiente  
+a través de sus gemidos piadosos.
