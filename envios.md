@@ -232,7 +232,7 @@ document.getElementById('submissionForm').addEventListener('submit', async funct
     const formData = new FormData(this);
 
     // Update this URL to your deployed API endpoint
-    const API_URL = 'https://futuroayerhoy-api.YOUR_SUBDOMAIN.workers.dev/api/submit-form';
+    const API_URL = 'https://api.elfuturodelayerhoy.com/api/submit-form';
 
     const response = await fetch(API_URL, {
       method: 'POST',
