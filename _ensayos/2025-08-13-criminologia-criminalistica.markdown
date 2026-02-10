@@ -1,5 +1,3 @@
-Perfect — I can do that. Below I prepared the Jekyll front matter using your example and a suggested slug shortened to the keywords you requested. Replace the TBC content with the story text you send and I’ll convert it to Markdown, preserving the original style and punctuation (only fixing grammar when absolutely necessary).
-
 ---
 layout: post
 title: "Criminologia y Criminalistica"
